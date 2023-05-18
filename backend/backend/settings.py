@@ -9,7 +9,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['158.160.30.11', '127.0.0.1', 'localhost', 'taskibydadyx.hopto.org']
 
-
 # Application definition
 
 INSTALLED_APPS = [
